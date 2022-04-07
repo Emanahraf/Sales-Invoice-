@@ -1,7 +1,3 @@
-Controller/InvoicItem.java
- Controller.InvoicItem
-Controller/Invoice.java
- Controller.Invoice
 Veiw/NewJFrame.java
  Veiw.NewJFrame
  Veiw.NewJFrame$1
@@ -13,5 +9,9 @@ Veiw/NewJFrame.java
  Veiw.NewJFrame$7
  Veiw.NewJFrame$8
  Veiw.NewJFrame$9
-Model/FileOperation.java
- Model.FileOperation
+Model/Invoice.java
+ Model.Invoice
+Model/InvoicItem.java
+ Model.InvoicItem
+Controller/FileOperation.java
+ Controller.FileOperation

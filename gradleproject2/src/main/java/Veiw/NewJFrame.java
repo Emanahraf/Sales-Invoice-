@@ -4,8 +4,8 @@
  */
 package Veiw;
 
-import Controller.*;
-import Model.FileOperation;
+import Model.Invoice;
+import Controller.FileOperation;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
